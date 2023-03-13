@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bagikopi-contact/static/css/main.f10684ff.css",
+    "main.js": "/bagikopi-contact/static/js/main.5f080155.js",
+    "static/js/787.d35e7e70.chunk.js": "/bagikopi-contact/static/js/787.d35e7e70.chunk.js",
+    "static/media/Buku Menu FIX.pdf": "/bagikopi-contact/static/media/Buku Menu FIX.5a3999e281c754ebe989.pdf",
+    "index.html": "/bagikopi-contact/index.html",
+    "main.f10684ff.css.map": "/bagikopi-contact/static/css/main.f10684ff.css.map",
+    "main.5f080155.js.map": "/bagikopi-contact/static/js/main.5f080155.js.map",
+    "787.d35e7e70.chunk.js.map": "/bagikopi-contact/static/js/787.d35e7e70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f10684ff.css",
+    "static/js/main.5f080155.js"
+  ]
+}
